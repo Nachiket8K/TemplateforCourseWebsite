@@ -1,16 +1,7 @@
 # Labs
 
-1. [Lab 0: Tools](# lab-0---tools)
-2. [Lab 1: Tidy Data](# lab-1---tidy-data)
-3. [Lab 2: Data Engineering](# lab-2---data-engineering)
-4. [Lab 3: Geo-Visualisation](# lab-3---geo-visualisation)
-5. [Lab 4: Networks and Spatial Weights](# lab-4---networks-and-spatial-weights)
-6. [Lab 5: Linear Regression](# lab-5---linear-regression)
-7. [Lab 6: Clustering](# lab-6---clustering)
-8. [Lab 7: Points](# lab-7---points)
 
-
-*DOWNLOAD ALL THE LABS :*
+## *DOWNLOAD ALL THE LABS :*
 
 You can download all the labs, associated datasets, html files describing the output of the labs, and homework notebooks using the links below.
 

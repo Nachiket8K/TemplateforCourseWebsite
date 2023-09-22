@@ -1,22 +1,5 @@
 # Lectures
 
-
-1. [Lecture 1: Introduction to _Urban_ Data Science](# lecture-1---introduction-to-urban-data-science)
-2. [Lecture 2: Spatial and Urban Data](# lecture-2---spatial-and-urban-data)
-3. [Lecture 3: Data Grammar](# lecture-3---data-grammar)
-4. [Lecture 4: Data Engineering](# lecture-4---data-engineering)
-5. [Lecture 5 EDA and Visualisation:](# lecture-5---eda-and-visualisation)
-6. [Lecture 6: Geo-Visualisation](# lecture-6---geo-visualisation)
-7. [Lecture 7: Networks and Spatial Weights](# lecture-7---networks-and-spatial-weights)
-8. [Lecture 8: Exploratory Spatial Data Analysis](# lecture-8---exploratory-spatial-data-analysis)
-9. [Lecture 9: Machine Learning for Everyone](# lecture-9---machine-learning-for-everyone)
-10. [Lecture 10: Anatomy of a Learning Algorithm](# lecture-10---anatomy-of-a-learning-algorithm)
-11. [Lecture 11: Clustering](# lecture-11---clustering)
-12. [Lecture 12: Dimensionality Reduction](# lecture-12---dimensionality-reduction)
-13. [Lecture 13: Spatial Density Estimation](# lecture-13---spatial-density-estimation)
-14. [Lecture 14: Responsible Data Science](# lecture-14---responsible-data-science)
-
-
 *A GUIDE TO FOLLOW THIS PAGE :*
 
 - The slides will be updated latest a night before the lecture in **pdf** format.
